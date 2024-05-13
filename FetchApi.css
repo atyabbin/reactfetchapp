@@ -1,0 +1,14 @@
+.fetch-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Optional: Add margin to space the button from the top */
+  }
+  .footer {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+    
